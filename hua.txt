@@ -1,5 +1,4 @@
-
-港澳,#genre#
+HK&Macau,#genre#
 TVB翡翠台,http://?id=0653e4c02000ea0440c8c63fd3e5d709d
 TVB翡翠台 H.265,http://?id=0653e4c6d000965ef0c8e049f4be34103
 TVB J2,http://?id=0653e4cda0007743f0c8fade86d132b26
@@ -105,7 +104,7 @@ Fight Sports,http://?id=0644c26370001b4eb5aad692f22d9728d
 星空卫视,http://?id=064ee40d1000cfcc5d3e2330305817be2
 CN卡通(粤),http://?id=0648353bb0006d4d93236315a766b692a
 Animax HK,http://?id=06506d1a00000a99a33d7555a4b747caa
-大陆,#genre#
+China,#genre#
 CCTV综合,http://?id=062c200310006b7b2a8c4dade0fd02231
 CCTV财经,http://?id=05fe15a4400093f55773aac0c576366b8
 CCTV综艺,http://?id=062be83ea0001dbed9b27d7bb43427d30
@@ -186,7 +185,7 @@ CGTN Espanol 西语,http://?id=063ec51ab000772cce458cafd43a96c5d
 CGTN Espanol 西语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN俄语,http://?id=060e648570006544872703d417386353f
 CGTN阿拉伯,http://?id=060e647e200033b4a726e736d14e93334
-台湾,#genre#
+Taiwan,#genre#
 壹综合,http://?id=064e36a09000d3453a98b615460a544cd
 中天新闻,http://?id=0613dba64000abeb1c801c02934bb45fc
 TVBS新闻,http://?id=0621858e3000e70ad1217c0700d576ad0
@@ -391,7 +390,7 @@ Rock Expreme,http://?id=064c6200b000b7fb53722f24464fa73dc
 大爱1,http://?id=063ed9fff00076875e972c31c79f4152e
 大爱2,http://?id=063eda04a0001f6fae973e6a334696980
 国兴卫视,http://?id=064bbca22000912200ec3b2631bca27c7
-北美,#genre#
+North America,#genre#
 CCTV4国际,http://?id=061244d9c0006885d64b1b7591f6c12a0
 CCTV4美洲,http://?id=0602f0bd2000b47fda6b4b7f96224105e
 CCTV4欧洲,http://?id=0602f097e000dad16a6aba08351fb40a9
@@ -428,7 +427,7 @@ WOW TV(加拿大),http://?id=06348ef9a00069e01b7d5c1d475b34466
 加拿大600新闻,http://?id=063f2ee15000673e5fe2b9ef606712937
 ICITV加拿大,http://?id=063f2ee6600090003fe2cdc056e866429
 NTD,http://?id=061245a9c0009293364e480057c452a09
-新马,#genre#
+SG&MY,#genre#
 Astro supersport1,http://?id=05ff7e55400052a7dcf48ff687a820e5c
 Astro supersport2,http://?id=05fded34c0008475b6d5be45731d55d06
 Astro supersport3,http://?id=05fded3620008eeb26d5c3a725b5a1adb
@@ -526,7 +525,7 @@ Celestial Movis,http://?id=06456adca0007295c83ceac8d42767576
 TVB Magic,http://?id=064bcf85500083b2d135ffe1a3ef73b5c
 Astro Arenabola 1,http://?id=064bd05ac0000680a139417f110dd4659
 Astro Arenabola 2,http://?id=064bd0692000e510013979df27f954b02
-韩国,#genre#
+Korea,#genre#
 KBS 1,http://?id=063b02943000b43d483b5663707ff057c
 KBS 2,http://?id=063b029bf000ccb4e83b74af96cda035c
 MBC,http://?id=063b02a3e00097d4d83b93a3769895f02
@@ -592,7 +591,7 @@ KBS Kids,http://?id=063b063d5000454a1849a2eb860421a3f
 KBS World,http://?id=063b06414000dc259849b2739712c1017
 All TV(Canada),http://?id=063b0644c0001b272849bfee20c3b3f57
 Arirang KR,http://?id=064ce04960009571055f7b0a4106e32b9
-日本,#genre#
+Japan,#genre#
 東京NHK総合,http://?id=06417572e000d95e38c65829c13ce2f37
 東京NHK教育,http://?id=064168d0200096671894fc5a31b4604df
 東京日本テレビ,http://?id=06417585e000932568c6a2502167354af
