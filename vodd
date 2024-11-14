@@ -15,8 +15,8 @@
 {"name":"2","ua":"","type":0,"url":"https://tv.iill.top/m3u/Live"}
 ],
 "sites": [
-{"key":"豆瓣2","name":"📢🔥公众号杰歌软件APP🔥榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢🔥公众号杰歌软件APP🔥公告❤更新:11/13❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--tua-mf3g9f.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥公众号杰歌软件APP🔥"},
+{"key":"豆瓣2","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"豆瓣","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--tua-mf3g9f.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥公众号杰歌软件APP🔥"},
 
 
 
